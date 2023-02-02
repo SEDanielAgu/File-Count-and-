@@ -1,0 +1,3 @@
+app: filecnt.cpp filedisp.cpp
+	g++ filecnt.cpp -o filecnt
+	g++ filedisp.cpp -o filedisp
